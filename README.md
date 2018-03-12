@@ -7,3 +7,7 @@ zxc
 # git教程
 
 创建了fix-B的分支
+朕创建featuer-C分支
+朕创建Feature-C的分支啦
+遇上对了的人。
+朕的 还有朕
